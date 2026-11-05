@@ -1,0 +1,10 @@
+{
+  "changed_entries": [
+    "etc/recovery.fstab"
+  ],
+  "same_archive_entry_count": 3122,
+  "kernel_and_dtb_and_cmdline_unchanged": true,
+  "boot_header_id_verified": true,
+  "malformed_or_unexpected_input_rejections": 4,
+  "device_tested": false
+}

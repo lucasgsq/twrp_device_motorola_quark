@@ -1,0 +1,13 @@
+{
+  "input_sha256": "0d0fcb443c8f2dc9ead3f01d2a4f4d8e01df463e16321e3df4de0194027eb755",
+  "output_sha256": "7adad015de232055b269e102c0cb68b66283e4c229c8ae5da443a53677171c9e",
+  "output_size": 13770752,
+  "ramdisk_compression_preserved": "lzma-alone",
+  "changed_ramdisk_files": [
+    "etc/recovery.fstab"
+  ],
+  "kernel_unchanged": true,
+  "device_tree_unchanged": true,
+  "boot_header_id_verified": true,
+  "tested_on_device": false
+}
